@@ -1,5 +1,5 @@
 ## Word Cloud
-For this project, you'll create a "word cloud" from a text by writing a script.  
+For this project, I created a "word cloud" from a text by writing a script.  
 This script needs to process the text as an input, then
 count the frequencies.  
 A dictionary is the output of the calculate_frequencies function.  
@@ -33,7 +33,6 @@ import os
 ```
 ### Upload a text file
 
-Open test.py you will find some examples
 ```
 file = open("b.txt", "r")
 file_contents = file.read()
